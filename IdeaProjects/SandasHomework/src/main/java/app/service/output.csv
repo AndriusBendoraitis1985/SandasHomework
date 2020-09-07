@@ -1,0 +1,18 @@
+Exercise 1
+Darbuotojas,Suma,Mokesciai
+Dalia Grybauskaitė,400.0,160.0
+Jonas Jonaitis ,100.0,40.0
+Valdas Adamkus,300.0,120.0
+Vytautas Landzbergis,4800.0,1920.0
+Zuokas,98.0,39.2
+
+Exercise 2
+Darbuotojas,Tipas,Suma
+Dalia Grybauskaitė,Atostoginiai,400.0
+Jonas Jonaitis ,Premija,100.0
+Valdas Adamkus,Alga,100.0
+Valdas Adamkus,Priedas,200.0
+Vytautas Landzbergis,Priedas,200.0
+Vytautas Landzbergis,Alga,4600.0
+Zuokas,Alga,40.0
+Zuokas,Priedas,58.0
